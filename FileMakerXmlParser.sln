@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMakerXmlParser", "FileMakerXmlParser\FileMakerXmlParser.csproj", "{BFEA46C9-473E-4945-8105-EE522091555B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMakerXmlParserSample", "FileMakerXmlParserSample\FileMakerXmlParserSample.csproj", "{EC015C56-9B49-42A3-AAD9-667D241AF226}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BFEA46C9-473E-4945-8105-EE522091555B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFEA46C9-473E-4945-8105-EE522091555B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFEA46C9-473E-4945-8105-EE522091555B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC015C56-9B49-42A3-AAD9-667D241AF226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC015C56-9B49-42A3-AAD9-667D241AF226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC015C56-9B49-42A3-AAD9-667D241AF226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC015C56-9B49-42A3-AAD9-667D241AF226}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
